@@ -169,6 +169,10 @@
       {
         "organization": {
           "name": "Viavansi",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/a95379b9-6475-49df-b7b2-3d837f01e8d9_logo-viafirma.svg",
+            "alt": "logo-viafirma.svg"
+          },
           "URL": "https://viafirma.com"
         },
         "roles": [
