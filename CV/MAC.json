@@ -1,0 +1,416 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Juan G.",
+      "surnames": "Hurtado",
+      "title": "Front-end developer en Manfred",
+      "description": "Lorem ipsum dolor sit amet…",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/52e1c20e-de75-4b7f-9189-28de72c0cd58_avatar.png",
+        "alt": "avatar.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJkWK-FBFsEg0RSFb-HGIY8DQ)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Sevilla"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Manfred",
+          "URL": "https://www.getmanfred.com"
+        },
+        "roles": [
+          {
+            "name": "Front-end developer en Manfred",
+            "startDate": "2021-03-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
+                "type": "technology"
+              },
+              {
+                "name": "StyledComponents",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "S-DOS",
+          "URL": "https://www.alten.es/"
+        },
+        "roles": [
+          {
+            "name": "Front-end lead en S-DOS",
+            "startDate": "2020-03-01",
+            "finishDate": "2021-03-01",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Viafirma",
+          "URL": "https://www.viafirma.com/"
+        },
+        "roles": [
+          {
+            "name": "Front-end developer en Viafirma",
+            "startDate": "2017-03-01",
+            "finishDate": "2020-03-01",
+            "competences": [
+              {
+                "name": "Backbone",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "MarionetteJS",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "Vaadin",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Viavansi",
+          "URL": "https://www.viafirma.com/"
+        },
+        "roles": [
+          {
+            "name": "Front-end developer en Viavansi",
+            "startDate": "2006-02-01",
+            "finishDate": "2017-03-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Agroinformación S.L",
+          "URL": "https://agroinformacion.com/"
+        },
+        "roles": [
+          {
+            "name": "Developer en Agroinformacion.com",
+            "startDate": "2004-07-01",
+            "finishDate": "2006-01-01",
+            "competences": [
+              {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "StyledComponents",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo formativo grado superior - Desarrollo de aplicaciones informáticas",
+        "startDate": "2002-09-01",
+        "institution": {
+          "name": "I.E.S Mediterráneo (La Línea de la Concepción - Cádiz)"
+        },
+        "finishDate": "2004-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de dar feedback",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/juanghurtado",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://stackoverflow.com/users/1285423/juan-g-hurtado",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/juanghurtado",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/juanghurtado",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "juan.g.hurtado@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "658911370",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "Jest",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "Playwright",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "I love building products. Having a bunch of people focused on one shared goal makes me happy.",
+    "goodPractices": "Lorem ipsum dolor…"
+  }
+}
