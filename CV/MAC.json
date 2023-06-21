@@ -208,6 +208,10 @@
       {
         "organization": {
           "name": "Agroinformación S.L",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/8f1ce79c-aac6-4237-9c38-7624b96d194a_kbzzqg0j_400x400.jpeg",
+            "alt": "KBzZQG0j_400x400.jpeg"
+          },
           "URL": "https://agroinformacion.com"
         },
         "roles": [
