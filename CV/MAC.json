@@ -37,6 +37,10 @@
       {
         "organization": {
           "name": "Manfred",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/1f485d77-39a3-4f5b-bacf-a082c3fc2a94_logo-manfred.svg",
+            "alt": "logo-manfred.svg"
+          },
           "URL": "https://getmanfred.com"
         },
         "roles": [
