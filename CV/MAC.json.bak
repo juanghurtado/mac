@@ -7,21 +7,41 @@
   "aboutMe": {
     "profile": {
       "name": "Juan G.",
-      "surnames": "Hurtado Pecino",
+      "surnames": "Hurtado",
       "title": "Front-end developer en Manfred",
       "description": "Lorem ipsum dolor sit amet…",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/52e1c20e-de75-4b7f-9189-28de72c0cd58_avatar.png",
         "alt": "avatar.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJkWK-FBFsEg0RSFb-HGIY8DQ)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Sevilla"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://github.com/juanghurtado"
+      },
+      {
+        "type": "other",
+        "URL": "https://twitter.com/juanghurtado"
+      }
+    ]
   },
   "experience": {
     "jobs": [
       {
         "organization": {
           "name": "Manfred",
-          "URL": "https://www.getmanfred.com"
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/1f485d77-39a3-4f5b-bacf-a082c3fc2a94_logo-manfred.svg",
+            "alt": "logo-manfred.svg"
+          },
+          "URL": "https://getmanfred.com"
         },
         "roles": [
           {
@@ -63,7 +83,11 @@
       {
         "organization": {
           "name": "S-DOS",
-          "URL": "https://www.alten.es/"
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/efa0ba3c-c74a-4b7f-b5aa-7c9e3b3fe1b0_logosdos.png",
+            "alt": "logoSDOS.png"
+          },
+          "URL": "https://www.alten.es"
         },
         "roles": [
           {
@@ -102,7 +126,11 @@
       {
         "organization": {
           "name": "Viafirma",
-          "URL": "https://www.viafirma.com/"
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/7fd30489-1e72-4a9c-b38e-a60cbf34000a_logo-viafirma.svg",
+            "alt": "logo-viafirma.svg"
+          },
+          "URL": "https://viafirma.com"
         },
         "roles": [
           {
@@ -153,7 +181,11 @@
       {
         "organization": {
           "name": "Viavansi",
-          "URL": "https://www.viafirma.com/"
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/a95379b9-6475-49df-b7b2-3d837f01e8d9_logo-viafirma.svg",
+            "alt": "logo-viafirma.svg"
+          },
+          "URL": "https://viafirma.com"
         },
         "roles": [
           {
@@ -192,7 +224,11 @@
       {
         "organization": {
           "name": "Agroinformación S.L",
-          "URL": "https://agroinformacion.com/"
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/8f1ce79c-aac6-4237-9c38-7624b96d194a_kbzzqg0j_400x400.jpeg",
+            "alt": "KBzZQG0j_400x400.jpeg"
+          },
+          "URL": "https://agroinformacion.com"
         },
         "roles": [
           {
@@ -336,14 +372,6 @@
         {
           "URL": "https://stackoverflow.com/users/1285423/juan-g-hurtado",
           "type": "stackoverflow"
-        },
-        {
-          "URL": "https://github.com/juanghurtado",
-          "type": "other"
-        },
-        {
-          "URL": "https://twitter.com/juanghurtado",
-          "type": "other"
         }
       ],
       "contactMails": [
@@ -359,7 +387,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Angular2+",
+          "name": "JavaScript",
           "type": "technology"
         },
         {
@@ -404,7 +432,7 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "I love building products. Having a bunch of people focused on one shared goal makes me happy.",
+    "desiredJobDescription": "Lorem ipsum dolor…",
     "goodPractices": "Lorem ipsum dolor…"
   }
 }
