@@ -20,7 +20,17 @@
         "region": "Andalucía",
         "municipality": "Sevilla"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://github.com/juanghurtado"
+      },
+      {
+        "type": "other",
+        "URL": "https://twitter.com/juanghurtado"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -342,14 +352,6 @@
         {
           "URL": "https://stackoverflow.com/users/1285423/juan-g-hurtado",
           "type": "stackoverflow"
-        },
-        {
-          "URL": "https://github.com/juanghurtado",
-          "type": "other"
-        },
-        {
-          "URL": "https://twitter.com/juanghurtado",
-          "type": "other"
         }
       ],
       "contactMails": [
@@ -364,10 +366,6 @@
     },
     "preferences": {
       "preferredCompetences": [
-        {
-          "name": "Angular2+",
-          "type": "technology"
-        },
         {
           "name": "Jest",
           "type": "technology"
