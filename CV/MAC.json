@@ -79,6 +79,10 @@
       {
         "organization": {
           "name": "S-DOS",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/efa0ba3c-c74a-4b7f-b5aa-7c9e3b3fe1b0_logosdos.png",
+            "alt": "logoSDOS.png"
+          },
           "URL": "https://www.alten.es"
         },
         "roles": [
