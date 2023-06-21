@@ -260,6 +260,40 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "inTEAmate",
+          "URL": "https://play.google.com/store/apps/details?id=com.juanghurtado.inteamate&hl=es&gl=US",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/6d5dcdb1-b641-47db-94fa-2bca9a10d1e7_unnamed.png",
+            "alt": "unnamed.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-01-01",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2017-12-01"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
@@ -433,6 +467,11 @@
       }
     ],
     "desiredJobDescription": "Lorem ipsum dolor…",
-    "goodPractices": "Lorem ipsum dolor…"
+    "goodPractices": "Lorem ipsum dolor…",
+    "projects": [
+      {
+        "name": "inTEAmate"
+      }
+    ]
   }
 }
