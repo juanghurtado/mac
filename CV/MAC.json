@@ -118,6 +118,10 @@
       {
         "organization": {
           "name": "Viafirma",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/7fd30489-1e72-4a9c-b38e-a60cbf34000a_logo-viafirma.svg",
+            "alt": "logo-viafirma.svg"
+          },
           "URL": "https://viafirma.com"
         },
         "roles": [
