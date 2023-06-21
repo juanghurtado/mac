@@ -367,6 +367,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
           "name": "Jest",
           "type": "technology"
         },
