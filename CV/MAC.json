@@ -20,14 +20,7 @@
         "region": "Andalucía",
         "municipality": "Sevilla"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "https://twitter.com/juanghurtado",
-        "description": "other"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -352,6 +345,10 @@
         },
         {
           "URL": "https://github.com/juanghurtado",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/juanghurtado",
           "type": "other"
         }
       ],
