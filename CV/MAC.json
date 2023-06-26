@@ -299,6 +299,10 @@
   "knowledge": {
     "languages": [
       {
+        "name": "DE",
+        "level": "Full professional proficiency"
+      },
+      {
         "name": "EN",
         "level": "Full professional proficiency"
       },
