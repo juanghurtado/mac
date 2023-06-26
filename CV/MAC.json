@@ -374,20 +374,6 @@
         },
         "finishDate": "2004-06-01"
       }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Aprendizaje Continuo",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Capacidad de dar feedback",
-          "type": "practice"
-        }
-      }
     ]
   },
   "careerPreferences": {
