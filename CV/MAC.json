@@ -69,7 +69,7 @@
                 "type": "technology"
               },
               {
-                "name": "StyledComponents",
+                "name": "Styled Components",
                 "type": "technology"
               },
               {
@@ -352,7 +352,7 @@
       },
       {
         "skill": {
-          "name": "StyledComponents",
+          "name": "Styled Components",
           "type": "technology"
         }
       },
@@ -426,7 +426,8 @@
         }
       ],
       "preferredRoles": [
-        "Frontend Developer"
+        "Frontend Developer",
+        "Full-stack Developer"
       ]
     },
     "status": "openToOffers"
