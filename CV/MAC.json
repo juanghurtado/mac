@@ -17,6 +17,14 @@
     },
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/juanghurtado"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/1285423/juan-g-hurtado"
+      },
+      {
         "type": "other",
         "URL": "https://github.com/juanghurtado"
       },
