@@ -26,11 +26,13 @@
       },
       {
         "type": "other",
-        "URL": "https://github.com/juanghurtado"
+        "URL": "https://github.com/juanghurtado",
+        "description": "Lorem ipsum"
       },
       {
         "type": "other",
-        "URL": "https://twitter.com/juanghurtado"
+        "URL": "https://twitter.com/juanghurtado",
+        "description": "dolor sit"
       }
     ]
   },
