@@ -9,7 +9,7 @@
       "name": "Juan G.",
       "surnames": "Hurtado",
       "title": "Front-end developer en Manfred",
-      "description": "Lorem ipsum dolor sit amet…",
+      "description": "Lorem ipsum dolor sit amet",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/52e1c20e-de75-4b7f-9189-28de72c0cd58_avatar.png",
         "alt": "avatar.png"
@@ -26,13 +26,11 @@
       },
       {
         "type": "other",
-        "URL": "https://github.com/juanghurtado",
-        "description": "a"
+        "URL": "https://github.com/juanghurtado"
       },
       {
         "type": "other",
-        "URL": "https://twitter.com/juanghurtado",
-        "description": "b"
+        "URL": "https://twitter.com/juanghurtado"
       }
     ]
   },
