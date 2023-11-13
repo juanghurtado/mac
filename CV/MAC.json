@@ -318,6 +318,12 @@
       },
       {
         "skill": {
+          "name": "Backbone",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
           "type": "technology"
         }
@@ -331,6 +337,12 @@
       {
         "skill": {
           "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MarionetteJS",
           "type": "technology"
         }
       },
@@ -438,7 +450,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "JavaScript",
+        "name": "Backbone",
+        "type": "technology"
+      },
+      {
+        "name": "MarionetteJS",
         "type": "technology"
       },
       {
