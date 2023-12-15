@@ -13,6 +13,12 @@
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/52e1c20e-de75-4b7f-9189-28de72c0cd58_avatar.png",
         "alt": "avatar.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJkWK-FBFsEg0RSFb-HGIY8DQ)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Sevilla"
       }
     },
     "relevantLinks": [
@@ -440,6 +446,9 @@
           "name": "TypeScript",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
       ]
     },
     "status": "openToOffers"
