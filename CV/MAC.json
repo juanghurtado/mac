@@ -450,10 +450,6 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Backbone",
-        "type": "technology"
-      },
-      {
         "name": "MarionetteJS",
         "type": "technology"
       },
