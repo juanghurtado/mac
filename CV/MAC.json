@@ -159,11 +159,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JSF",
                 "type": "technology"
               },
               {
-                "name": "JSF",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -210,11 +210,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JSF",
                 "type": "technology"
               },
               {
-                "name": "JSF",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -294,7 +294,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               }
             ],
