@@ -478,10 +478,6 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "MarionetteJS",
-        "type": "technology"
-      },
-      {
         "name": "NextJS",
         "type": "technology"
       },
