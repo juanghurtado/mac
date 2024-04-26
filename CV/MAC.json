@@ -262,6 +262,11 @@
             "name": "Developer en Agroinformacion.com",
             "startDate": "2004-07-01",
             "finishDate": "2006-01-01",
+            "challenges": [
+              {
+                "description": "Mantenimiento y desarrollo de nuevas funcionalidades para una plataforma web de información agropecuaria. Esta fue una etapa de descubrimientos, aquí es donde comenzó mi andadura como front."
+              }
+            ],
             "competences": [
               {
                 "name": "ASP.net",
