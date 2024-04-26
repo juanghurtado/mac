@@ -495,7 +495,7 @@
       }
     ],
     "desiredJobDescription": "Lorem ipsum dolor…",
-    "goodPractices": "Lorem ipsum dolor…",
+    "goodPractices": "No me gustan los \"palabros\", para mi el mejor patrón de diseño es el sentido común. Mis prioridades al escribir código son:\n\n- Cuanto más simple, mejor\n- Separar responsabilidades\n- No reinventes la rueda",
     "projects": [
       {
         "name": "inTEAmate"
