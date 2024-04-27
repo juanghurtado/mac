@@ -148,7 +148,7 @@
             "finishDate": "2020-03-01",
             "challenges": [
               {
-                "description": "En esta segunda etapa la empresa pasó a ser una empresa con un producto de firma digital, por lo que pasamos de trabajar en muchísimos proyectos de diversa índole a tener un _roadmap_ de producto único con sólo unas pocas aplicaciones.\n\nEn esta etapa también amplié mi mundo y empecé a _picotear_ cosas diferentes de las que había hecho hasta ahora: desarrollé un par de aplicaciones al completo con Java/Vaadin, en mi tiempo libre trabajé en aplicaciones nativas para Android…"
+                "description": "En esta segunda etapa la empresa pasó a ser una empresa con un producto de firma digital, por lo que pasamos de trabajar en muchísimos proyectos de diversa índole a tener un _roadmap_ de producto único con sólo unas pocas aplicaciones.\n\nEn esta etapa también amplié mi mundo (gracias a que mis compañeros me apoyaron y me guiaron) y empecé a _picotear_ cosas diferentes de las que había hecho hasta ahora:\n\n- Desarrollé un par de aplicaciones internas de gestión para el producto usando Java/Vaadin\n- En mi tiempo libre publiqué un par de aplicaciones nativas para Android en la Play Store"
               }
             ],
             "competences": [
