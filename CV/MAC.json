@@ -290,7 +290,7 @@
       {
         "details": {
           "name": "inTEAmate",
-          "URL": "https://play.google.com/store/apps/details?id=com.juanghurtado.inteamate&hl=es&gl=US",
+          "description": "Desarrollo de una aplicación nativa para Android. Un temporizador para preparar la taza de té perfecta según la variedad.\n\nDesgraciadamente quedó sin mantener y finalmente Google Play Store la deprecó y retiró hace algunos meses.",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/6d5dcdb1-b641-47db-94fa-2bca9a10d1e7_unnamed.png",
             "alt": "unnamed.png"
