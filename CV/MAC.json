@@ -6,13 +6,13 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Juan G.",
-      "surnames": "Hurtado",
-      "title": "Front-end Developer en Manfred",
-      "description": "Empecé como Front-end en 2004, cuando la mayor parte de nuestra tarea era pelearse con Internet Explorer… Desde aquella época hasta hoy día he vivido de primera mano: el nacimiento de jQuery, la aparición de las SPAs, los pre-procesadores de CSS, el _css-in-js_, los frameworks que aparecían como setas a cada semana…\n\nY aquí sigo, tan motivado como siempre. Aprendiendo y mejorando cada día, como no puede ser de otra forma en una profesión como esta. Llevo un saco de experiencias de todo tipo a mis espaldas. Y he conocido a muchísima gente buena (y buena gente) de la que he podido nutrirme (cosas técnicas y cosas no técnicas también).",
+      "name": "Juan",
+      "surnames": "G. Hurtado",
+      "title": "Front-end developer en Manfred",
+      "description": "Web developer focused on front-end, using W3C standards such as HTML5, CSS3… Also developing SPAs with Angular and React (and old glories: Backbone.js, MarionetteJS, ExtJS…).\n\nI also have experience developing backend code: PHP, Java, JSF, JSP, Ruby on Rails, Node.js with Express framework… The language doesn't matter, what matters is solving the problem.\n\nI've used many CMS: Drupal, OpenCms, Wordpress… And some static sites generators: nanoc, Jekyll…\n\nI can also write mobile apps for iPhone, iPad and Android using technologies such as PhoneGap and Appcelerator Titanium. I've also write some code for native mobile SDK's: iOS and Android. I have two apps published on Google Play Store!\n\nMy prefered workspace is OS X, with lot of terminal usage (ZSH shell) to mess around with Git (or any other VCS).\n\nOh, I almost forgot, I love testing my code! (Jasmine, Mocha, Sinon…)\n\nTags: front-end, CSS, Javascript, jQuery, microformats, typography, CSS3, HTML5, Ajax, front-end frameworks, mobile, iPhone, iPad, Android, PhoneGap, Appcelerator, Git, ZSH, Ruby, Backbone, Marionette, ExtJS, Node.js, Express, Rails, Ruby, Angular, React",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/52e1c20e-de75-4b7f-9189-28de72c0cd58_avatar.png",
-        "alt": "avatar.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/a3e2c35d-3b0c-4db7-83ea-b04f55807761_linkedin-photo-43.linkedin-photo-43",
+        "alt": "24/09/18/a3e2c35d-3b0c-4db7-83ea-b04f55807761_linkedin-photo-43.linkedin-photo-43"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJkWK-FBFsEg0RSFb-HGIY8DQ)",
@@ -22,6 +22,10 @@
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/juanghurtado"
+      },
       {
         "type": "github",
         "URL": "https://github.com/juanghurtado"
@@ -33,255 +37,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Manfred",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/1f485d77-39a3-4f5b-bacf-a082c3fc2a94_logo-manfred.svg",
-            "alt": "logo-manfred.svg"
-          },
-          "URL": "https://getmanfred.com"
-        },
-        "roles": [
-          {
-            "name": "Front-end Developer",
-            "startDate": "2021-03-01",
-            "challenges": [
-              {
-                "description": "Considero que este es el punto álgido de mi carrera: aquí es donde he podido trasladar más fielmente todos los conocimientos que he ido adquiriendo durante mi trayectoria.\n\nA pesar de ser un equipo pequeño (o precisamente por eso), es donde más he podido trabajar en conjunto con mis compañeros en pos de crear un ambiente de mejora continua, de compartir conocimientos, de _delivery_… Todas las \"piezas\" que he ido reuniendo durante todos estos años ahora están en su sitio."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Jest",
-                "type": "technology"
-              },
-              {
-                "name": "NextJS",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Storybook",
-                "type": "technology"
-              },
-              {
-                "name": "Styled Components",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "S-DOS",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/efa0ba3c-c74a-4b7f-b5aa-7c9e3b3fe1b0_logosdos.png",
-            "alt": "logoSDOS.png"
-          },
-          "URL": "https://www.alten.es"
-        },
-        "roles": [
-          {
-            "name": "Front-end Lead",
-            "startDate": "2020-03-01",
-            "finishDate": "2021-03-01",
-            "challenges": [
-              {
-                "description": "Durante mi estancia en S-DOS como Front-end Lead, además de participar activamente en el desarrollo de los proyectos en los que estábamos involucrados, estuve al frente del equipo de front (6 personas) tomando las decisiones de arquitectura necesarias para impulsar el trabajo de front de los proyectos en los que trabajamos.\n\nDesarrollamos un _starter-kit_ en Angular para que todos los proyectos futuros se trabajaran de una manera estandarizada, bajo los mismos patrones, estructuras y convenciones comunes.\n\nAdemás, me responsabilicé de mentorizar y ayudar al resto del equipo, impulsando iniciativas de formación, sesiones de _pair-programming_, etc."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Sass",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Viafirma",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/7fd30489-1e72-4a9c-b38e-a60cbf34000a_logo-viafirma.svg",
-            "alt": "logo-viafirma.svg"
-          },
-          "URL": "https://viafirma.com"
-        },
-        "roles": [
-          {
-            "name": "Front-end Developer",
-            "startDate": "2017-03-01",
-            "finishDate": "2020-03-01",
-            "challenges": [
-              {
-                "description": "En esta segunda etapa la empresa pasó a ser una empresa con un producto de firma digital, por lo que pasamos de trabajar en muchísimos proyectos de diversa índole a tener un _roadmap_ de producto único con sólo unas pocas aplicaciones.\n\nEn esta etapa también amplié mi mundo (gracias a que mis compañeros me apoyaron y me guiaron) y empecé a _picotear_ cosas diferentes de las que había hecho hasta ahora:\n\n- Desarrollé un par de aplicaciones internas de gestión para el producto usando Java/Vaadin\n- En mi tiempo libre publiqué un par de aplicaciones nativas para Android en la Play Store"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Backbone",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JSF",
-                "type": "technology"
-              },
-              {
-                "name": "Java",
-                "type": "technology"
-              },
-              {
-                "name": "MarionetteJS",
-                "type": "technology"
-              },
-              {
-                "name": "Sass",
-                "type": "technology"
-              },
-              {
-                "name": "Vaadin",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Viavansi",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/a95379b9-6475-49df-b7b2-3d837f01e8d9_logo-viafirma.svg",
-            "alt": "logo-viafirma.svg"
-          },
-          "URL": "https://viafirma.com"
-        },
-        "roles": [
-          {
-            "name": "Front-end Developer",
-            "startDate": "2006-02-01",
-            "finishDate": "2017-03-01",
-            "challenges": [
-              {
-                "description": "Esta primera etapa en la empresa (Viavansi, que posteriormente pasó a denominarse Viafirma), estuvo llena de proyectos de todo tipo. Al ser el único front-end del equipo, me tocaba participar en todos ellos; por ello tuve que realizar una labor importante de crear herramientas que me permitiesen simplificar el trabajo y poder delegar en los compañeros de backend lo máximo posible una vez hecho el esfuerzo inicial.\n\nAquí también aprendí mucho sobre cómo enseñar y explicar el trabajo de front, ya que ser el único front del equipo me hacía estar siempre de un proyecto a otro aclarando dudas, resolviendo bugs, etc. Por lo que en cada una de esas ocasiones siempre aprovechaba para tratar de instruir a los compañeros."
-              }
-            ],
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JSF",
-                "type": "technology"
-              },
-              {
-                "name": "Java",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Agroinformación S.L",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/8f1ce79c-aac6-4237-9c38-7624b96d194a_kbzzqg0j_400x400.jpeg",
-            "alt": "KBzZQG0j_400x400.jpeg"
-          },
-          "URL": "https://agroinformacion.com"
-        },
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2004-07-01",
-            "finishDate": "2006-01-01",
-            "challenges": [
-              {
-                "description": "Mantenimiento y desarrollo de nuevas funcionalidades para una plataforma web de información agropecuaria. Esta fue una etapa de descubrimientos, aquí es donde comenzó mi andadura como front."
-              }
-            ],
-            "competences": [
-              {
-                "name": "ASP.net",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {
@@ -434,6 +189,10 @@
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/juanghurtado",
+          "type": "linkedin"
+        },
         {
           "URL": "https://stackoverflow.com/users/1285423/juan-g-hurtado",
           "type": "stackoverflow"
