@@ -9,10 +9,10 @@
       "name": "Juan",
       "surnames": "G. Hurtado",
       "title": "Front-end developer en Manfred",
-      "description": "Web developer focused on front-end, using W3C standards such as HTML5, CSS3… Also developing SPAs with Angular and React (and old glories: Backbone.js, MarionetteJS, ExtJS…).\n\nI also have experience developing backend code: PHP, Java, JSF, JSP, Ruby on Rails, Node.js with Express framework… The language doesn't matter, what matters is solving the problem.\n\nI've used many CMS: Drupal, OpenCms, Wordpress… And some static sites generators: nanoc, Jekyll…\n\nI can also write mobile apps for iPhone, iPad and Android using technologies such as PhoneGap and Appcelerator Titanium. I've also write some code for native mobile SDK's: iOS and Android. I have two apps published on Google Play Store!\n\nMy prefered workspace is OS X, with lot of terminal usage (ZSH shell) to mess around with Git (or any other VCS).\n\nOh, I almost forgot, I love testing my code! (Jasmine, Mocha, Sinon…)\n\nTags: front-end, CSS, Javascript, jQuery, microformats, typography, CSS3, HTML5, Ajax, front-end frameworks, mobile, iPhone, iPad, Android, PhoneGap, Appcelerator, Git, ZSH, Ruby, Backbone, Marionette, ExtJS, Node.js, Express, Rails, Ruby, Angular, React",
+      "description": "Empecé como Front-end en 2004, cuando la mayor parte de nuestra tarea era pelearse con Internet Explorer… Desde aquella época hasta hoy día he vivido de primera mano: el nacimiento de jQuery, la aparición de las SPAs, los pre-procesadores de CSS, el _css-in-js_, los frameworks que aparecían como setas a cada semana…\n\nY aquí sigo, tan motivado como siempre. Aprendiendo y mejorando cada día, como no puede ser de otra forma en una profesión como esta. Llevo un saco de experiencias de todo tipo a mis espaldas. Y he conocido a muchísima gente buena (y buena gente) de la que he podido nutrirme (cosas técnicas y cosas no técnicas también).",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/cf9fb0c7-c850-4bb9-bdce-b43a39a5f584_linkedin-photo-43.linkedin-photo-43",
-        "alt": "24/09/18/cf9fb0c7-c850-4bb9-bdce-b43a39a5f584_linkedin-photo-43.linkedin-photo-43"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/6d168af6-03c3-4b93-a8b9-9823d2bdffa3_linkedin-photo-43.linkedin-photo-43",
+        "alt": "24/09/18/6d168af6-03c3-4b93-a8b9-9823d2bdffa3_linkedin-photo-43.linkedin-photo-43"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJkWK-FBFsEg0RSFb-HGIY8DQ)",
@@ -42,8 +42,8 @@
         "organization": {
           "name": "Manfred",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/daeb58c0-4114-41f2-aa1d-e85cf8341147_linkedin-photo-43.linkedin-photo-43",
-            "alt": "24/09/18/daeb58c0-4114-41f2-aa1d-e85cf8341147_linkedin-photo-43.linkedin-photo-43"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/6231d15f-38f1-4648-896f-137af6e5c64b_linkedin-photo-43.linkedin-photo-43",
+            "alt": "24/09/18/6231d15f-38f1-4648-896f-137af6e5c64b_linkedin-photo-43.linkedin-photo-43"
           }
         },
         "roles": [
@@ -74,8 +74,8 @@
         "organization": {
           "name": "Viafirma",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/640c7d94-49ef-4e10-89ee-faae580ebe65_linkedin-photo-43.linkedin-photo-43",
-            "alt": "24/09/18/640c7d94-49ef-4e10-89ee-faae580ebe65_linkedin-photo-43.linkedin-photo-43"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/2c94b804-9b8a-4bb3-87a7-96e94d7a88e3_linkedin-photo-43.linkedin-photo-43",
+            "alt": "24/09/18/2c94b804-9b8a-4bb3-87a7-96e94d7a88e3_linkedin-photo-43.linkedin-photo-43"
           }
         },
         "roles": [
@@ -90,8 +90,8 @@
         "organization": {
           "name": "Viavansi",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/1041d8bf-29a4-400e-8068-c95971d80ce1_linkedin-photo-43.linkedin-photo-43",
-            "alt": "24/09/18/1041d8bf-29a4-400e-8068-c95971d80ce1_linkedin-photo-43.linkedin-photo-43"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/d666cf72-380d-4ef7-a8e4-b55673d1a8e4_linkedin-photo-43.linkedin-photo-43",
+            "alt": "24/09/18/d666cf72-380d-4ef7-a8e4-b55673d1a8e4_linkedin-photo-43.linkedin-photo-43"
           }
         },
         "roles": [
