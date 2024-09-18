@@ -101,7 +101,7 @@
             "finishDate": "2019-01-31",
             "challenges": [
               {
-                "description": "Front-end lead developer.\n\n- Converting from PSD/Fireworks designs to HTML/CSS code and then into the template system of different platforms (JSF, OpenCms, Drupal…)\n- Developing Javascript libraries and jQuery plugins for richer UI experience\n- Collaborating on development of internal framework for the team, defining UI and tools to make my team-mates happier\n- Developing cross-platform mobile apps with tools like PhoneGap or Appcelerator Titanium"
+                "description": "Esta primera etapa en la empresa (Viavansi, que posteriormente pasó a denominarse Viafirma), estuvo llena de proyectos de todo tipo. Al ser el único front-end del equipo, me tocaba participar en todos ellos; por ello tuve que realizar una labor importante de crear herramientas que me permitiesen simplificar el trabajo y poder delegar en los compañeros de backend lo máximo posible una vez hecho el esfuerzo inicial.\n\nAquí también aprendí mucho sobre cómo enseñar y explicar el trabajo de front, ya que ser el único front del equipo me hacía estar siempre de un proyecto a otro aclarando dudas, resolviendo bugs, etc. Por lo que en cada una de esas ocasiones siempre aprovechaba para tratar de instruir a los compañeros."
               }
             ]
           }
