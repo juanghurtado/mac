@@ -49,7 +49,12 @@
         "roles": [
           {
             "name": "Front-end developer",
-            "startDate": "2021-05-01"
+            "startDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "Considero que este es el punto álgido de mi carrera: aquí es donde he podido trasladar más fielmente todos los conocimientos que he ido adquiriendo durante mi trayectoria.\n\nA pesar de ser un equipo pequeño (o precisamente por eso), es donde más he podido trabajar en conjunto con mis compañeros en pos de crear un ambiente de mejora continua, de compartir conocimientos, de _delivery_… Todas las \\\"piezas\\\" que he ido reuniendo durante todos estos años ahora están en su sitio."
+              }
+            ]
           }
         ]
       },
