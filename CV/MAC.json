@@ -64,7 +64,7 @@
             "finishDate": "2021-05-31",
             "challenges": [
               {
-                "description": "Technical lead for the front-end team (focused on Angular apps). Design and development of the workflow and tools to ease the day-to-day work of the team (linters, testing, CI, git...). Reinforcement of good practices. And, of course, development of Angular apps."
+                "description": "Durante mi estancia en S-DOS como Front-end Lead, además de participar activamente en el desarrollo de los proyectos en los que estábamos involucrados, estuve al frente del equipo de front (6 personas) tomando las decisiones de arquitectura necesarias para impulsar el trabajo de front de los proyectos en los que trabajamos.\n\nDesarrollamos un _starter-kit_ en Angular para que todos los proyectos futuros se trabajaran de una manera estandarizada, bajo los mismos patrones, estructuras y convenciones comunes.\n\nAdemás, me responsabilicé de mentorizar y ayudar al resto del equipo, impulsando iniciativas de formación, sesiones de _pair-programming_, etc."
               }
             ]
           }
