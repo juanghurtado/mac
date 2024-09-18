@@ -11,8 +11,8 @@
       "title": "Front-end developer en Manfred",
       "description": "Web developer focused on front-end, using W3C standards such as HTML5, CSS3… Also developing SPAs with Angular and React (and old glories: Backbone.js, MarionetteJS, ExtJS…).\n\nI also have experience developing backend code: PHP, Java, JSF, JSP, Ruby on Rails, Node.js with Express framework… The language doesn't matter, what matters is solving the problem.\n\nI've used many CMS: Drupal, OpenCms, Wordpress… And some static sites generators: nanoc, Jekyll…\n\nI can also write mobile apps for iPhone, iPad and Android using technologies such as PhoneGap and Appcelerator Titanium. I've also write some code for native mobile SDK's: iOS and Android. I have two apps published on Google Play Store!\n\nMy prefered workspace is OS X, with lot of terminal usage (ZSH shell) to mess around with Git (or any other VCS).\n\nOh, I almost forgot, I love testing my code! (Jasmine, Mocha, Sinon…)\n\nTags: front-end, CSS, Javascript, jQuery, microformats, typography, CSS3, HTML5, Ajax, front-end frameworks, mobile, iPhone, iPad, Android, PhoneGap, Appcelerator, Git, ZSH, Ruby, Backbone, Marionette, ExtJS, Node.js, Express, Rails, Ruby, Angular, React",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/d6cc4521-4852-4c13-b9ea-b0937d6c70ae_linkedin-photo-43.linkedin-photo-43",
-        "alt": "24/09/18/d6cc4521-4852-4c13-b9ea-b0937d6c70ae_linkedin-photo-43.linkedin-photo-43"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/0497c113-1942-4033-b3fa-386d29bcc642_linkedin-photo-43.linkedin-photo-43",
+        "alt": "24/09/18/0497c113-1942-4033-b3fa-386d29bcc642_linkedin-photo-43.linkedin-photo-43"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJkWK-FBFsEg0RSFb-HGIY8DQ)",
@@ -42,8 +42,8 @@
         "organization": {
           "name": "Manfred",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/b6f83676-0375-414f-9050-5230ae0b9196_linkedin-photo-43.linkedin-photo-43",
-            "alt": "24/09/18/b6f83676-0375-414f-9050-5230ae0b9196_linkedin-photo-43.linkedin-photo-43"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/7d5544de-7717-4d96-94cd-f9dbe5bd6ae4_linkedin-photo-43.linkedin-photo-43",
+            "alt": "24/09/18/7d5544de-7717-4d96-94cd-f9dbe5bd6ae4_linkedin-photo-43.linkedin-photo-43"
           }
         },
         "roles": [
@@ -74,8 +74,8 @@
         "organization": {
           "name": "Viafirma",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/5f232033-22cf-41a1-9c3c-df4550c285d8_linkedin-photo-43.linkedin-photo-43",
-            "alt": "24/09/18/5f232033-22cf-41a1-9c3c-df4550c285d8_linkedin-photo-43.linkedin-photo-43"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/1fa635ad-a455-47d2-a6ed-09478482ef08_linkedin-photo-43.linkedin-photo-43",
+            "alt": "24/09/18/1fa635ad-a455-47d2-a6ed-09478482ef08_linkedin-photo-43.linkedin-photo-43"
           }
         },
         "roles": [
@@ -90,8 +90,8 @@
         "organization": {
           "name": "Viavansi",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/43f601de-14d3-443d-9e49-0ab068c66548_linkedin-photo-43.linkedin-photo-43",
-            "alt": "24/09/18/43f601de-14d3-443d-9e49-0ab068c66548_linkedin-photo-43.linkedin-photo-43"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/2ea42018-2538-49f3-8659-cb9723e67b9c_linkedin-photo-43.linkedin-photo-43",
+            "alt": "24/09/18/2ea42018-2538-49f3-8659-cb9723e67b9c_linkedin-photo-43.linkedin-photo-43"
           }
         },
         "roles": [
@@ -176,7 +176,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Angular2+",
+          "name": "Android",
           "type": "technology"
         }
       },
@@ -194,25 +194,37 @@
       },
       {
         "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Jest",
+          "name": "PHP",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MarionetteJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NextJS",
+          "name": "PhoneGap",
           "type": "technology"
         }
       },
@@ -224,19 +236,31 @@
       },
       {
         "skill": {
-          "name": "Sass",
+          "name": "Redux",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Styled Components",
+          "name": "Ruby",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TypeScript",
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vaadin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
           "type": "technology"
         }
       }
@@ -335,15 +359,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "NextJS",
-        "type": "technology"
-      },
-      {
         "name": "React",
-        "type": "technology"
-      },
-      {
-        "name": "TypeScript",
         "type": "technology"
       }
     ],
