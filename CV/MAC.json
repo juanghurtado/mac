@@ -23,10 +23,6 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://linkedin.com/in/juanghurtado"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/juanghurtado"
       },
@@ -438,10 +434,6 @@
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
-        {
-          "URL": "https://linkedin.com/in/juanghurtado",
-          "type": "linkedin"
-        },
         {
           "URL": "https://stackoverflow.com/users/1285423/juan-g-hurtado",
           "type": "stackoverflow"
