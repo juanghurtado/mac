@@ -6,7 +6,7 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "%%NAME%%",
+      "name": "Juan G.",
       "surnames": "Hurtado",
       "title": "Front-end developer en Manfred",
       "description": "Empecé como Front-end en 2004, cuando la mayor parte de nuestra tarea era pelearse con Internet Explorer… Desde aquella época hasta hoy día he vivido de primera mano: el nacimiento de jQuery, la aparición de las SPAs, los pre-procesadores de CSS, el _css-in-js_, los frameworks que aparecían como setas a cada semana…\n\nY aquí sigo, tan motivado como siempre. Aprendiendo y mejorando cada día, como no puede ser de otra forma en una profesión como esta. Llevo un saco de experiencias de todo tipo a mis espaldas. Y he conocido a muchísima gente buena (y buena gente) de la que he podido nutrirme (cosas técnicas y cosas no técnicas también).",
