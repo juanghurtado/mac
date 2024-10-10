@@ -204,6 +204,12 @@
       },
       {
         "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NextJS",
           "type": "technology"
         }
