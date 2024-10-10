@@ -186,7 +186,43 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -285,7 +321,15 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
         "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
         "type": "technology"
       }
     ],
