@@ -21,6 +21,12 @@
         "municipality": "Sevilla"
       }
     },
+    "interestingFacts": [
+      {
+        "topic": "Lorem ipsum dolor sit amet consectetum",
+        "fact": "Aute consequat culpa nostrud adipisicing dolor culpa magna mollit. Ea incididunt mollit eiusmod mollit. Velit ad dolore occaecat occaecat adipisicing labore reprehenderit. Veniam voluptate proident esse ut magna voluptate ut laboris id magna enim sunt amet laboris. Mollit dolore laboris aute do eu aliquip excepteur Lorem ad ad dolor dolor eu voluptate id."
+      }
+    ],
     "relevantLinks": [
       {
         "type": "linkedin",
