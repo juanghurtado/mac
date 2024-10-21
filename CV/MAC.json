@@ -168,6 +168,38 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Lorem ipsum dolor",
+          "description": "Aute consequat culpa nostrud adipisicing dolor culpa magna mollit. Ea incididunt mollit eiusmod mollit. Velit ad dolore occaecat occaecat adipisicing labore reprehenderit. Veniam voluptate proident esse ut magna voluptate ut laboris id magna enim sunt amet laboris. Mollit dolore laboris aute do eu aliquip excepteur Lorem ad ad dolor dolor eu voluptate id.",
+          "URL": "https://www.getmanfred.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/21/869c13a9-c136-40ac-9ffc-36bba35f4c0b_avatar.png",
+            "alt": "avatar.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2008-03-01",
+        "tags": [
+          "Example"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "NextJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
