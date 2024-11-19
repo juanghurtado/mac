@@ -138,6 +138,37 @@
     "projects": [
       {
         "details": {
+          "name": "Migraine monitor",
+          "description": "I’m currently developing an application to monitor migraine episodes. The idea is to collect data (intensity, symptoms, medication, etc.) about the episodes to later analyze it and generate charts.\n\nThe goal is also to use AI to identify patterns and determine potential triggers for the episodes.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/19/49dcb7c3-84e5-408e-99e3-8b7d62575daf_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla 2024-11-19 a las 17.08.37.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-11-01",
+            "competences": [
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "inTEAmate",
           "description": "Development of a native Android application (written in Java): a timer to brew the perfect cup of tea based on the variety you want to enjoy.\n\nUnfortunately, I stopped maintaining it, and Google Play Store eventually deprecated and removed it a few months ago.",
           "image": {
@@ -342,6 +373,9 @@
     "desiredJobDescription": "Me motiva trabajar en producto. Enfocar todo mi esfuerzo en hacer avanzar una idea y verla hacerse realidad poco a poco.\n\nValoro mucho trabajar en un equipo de desarrollo no demasiado grande, codo con codo, donde se pueda aprender del compañero de al lado y todos remen en la misma dirección. Pero por otro lado, también me encanta aportar mi granito de arena liderando un equipo algo más grande con gente menos experimentada y darles todo aquello que he ido aprendiendo con los años.\n\nNo me gustaría tener un horario rígido, necesito compatibilizar mi vida familiar con la vida laboral. Me gusta la gente que se trata con respeto y que valora más la responsabilidad que una herramienta de _time-tracking_.",
     "goodPractices": "I’m not a fan of buzzwords; for me, the best design pattern is common sense. And experience has shown me that, most of the time, this holds true.\n\nI strive to be pragmatic while writing code with the mindset that someone (possibly myself) will need to revisit it later to modify or extend it. This is why I always try to make things as simple and explicit as possible.\n\nTo achieve this, I aim to follow the SOLID principles (without obsessing over them—pragmatism always comes first).\n\nSpecifically, I’m particularly focused on clearly separating responsibilities and decoupling anything that could cause issues in the future.",
     "projects": [
+      {
+        "name": "Migraine monitor"
+      },
       {
         "name": "inTEAmate"
       }
