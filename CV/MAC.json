@@ -44,7 +44,8 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/6231d15f-38f1-4648-896f-137af6e5c64b_linkedin-photo-43.linkedin-photo-43",
             "alt": "24/09/18/6231d15f-38f1-4648-896f-137af6e5c64b_linkedin-photo-43.linkedin-photo-43"
-          }
+          },
+          "URL": "https://getmanfred.com"
         },
         "roles": [
           {
@@ -52,7 +53,37 @@
             "startDate": "2021-05-01",
             "challenges": [
               {
-                "description": "Considero que este es el punto álgido de mi carrera: aquí es donde he podido trasladar más fielmente todos los conocimientos que he ido adquiriendo durante mi trayectoria.\n\nA pesar de ser un equipo pequeño (o precisamente por eso), es donde más he podido trabajar en conjunto con mis compañeros en pos de crear un ambiente de mejora continua, de compartir conocimientos, de _delivery_… Todas las \\\"piezas\\\" que he ido reuniendo durante todos estos años ahora están en su sitio."
+                "description": "I consider this to be the high point of my career: this is where I have been able to most faithfully transfer all the knowledge I have acquired throughout my career.\n\nDespite being a small team (or precisely because of that), it is where I have been able to work together with my colleagues to create an environment of continuous improvement, of sharing knowledge, of delivery… All the \"pieces\" that I have been gathering over all these years are now in their place."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Styled Components",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Yarn",
+                "type": "technology"
               }
             ]
           }
