@@ -29,10 +29,6 @@
       {
         "type": "github",
         "URL": "https://github.com/juanghurtado"
-      },
-      {
-        "type": "stackoverflow",
-        "URL": "https://stackoverflow.com/users/1285423/juan-g-hurtado"
       }
     ]
   },
@@ -472,10 +468,6 @@
         {
           "URL": "https://linkedin.com/in/juanghurtado",
           "type": "linkedin"
-        },
-        {
-          "URL": "https://stackoverflow.com/users/1285423/juan-g-hurtado",
-          "type": "stackoverflow"
         },
         {
           "URL": "https://github.com/juanghurtado",
