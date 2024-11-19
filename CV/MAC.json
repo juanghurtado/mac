@@ -340,7 +340,7 @@
       }
     ],
     "desiredJobDescription": "Me motiva trabajar en producto. Enfocar todo mi esfuerzo en hacer avanzar una idea y verla hacerse realidad poco a poco.\n\nValoro mucho trabajar en un equipo de desarrollo no demasiado grande, codo con codo, donde se pueda aprender del compañero de al lado y todos remen en la misma dirección. Pero por otro lado, también me encanta aportar mi granito de arena liderando un equipo algo más grande con gente menos experimentada y darles todo aquello que he ido aprendiendo con los años.\n\nNo me gustaría tener un horario rígido, necesito compatibilizar mi vida familiar con la vida laboral. Me gusta la gente que se trata con respeto y que valora más la responsabilidad que una herramienta de _time-tracking_.",
-    "goodPractices": "No me gustan los \"palabros\", para mi el mejor patrón de diseño es el sentido común. Mis prioridades al escribir código son:\n\n- Cuanto más simple, mejor\n- Separar responsabilidades\n- No reinventes la rueda",
+    "goodPractices": "I’m not a fan of buzzwords; for me, the best design pattern is common sense. And experience has shown me that, most of the time, this holds true.\n\nI strive to be pragmatic while writing code with the mindset that someone (possibly myself) will need to revisit it later to modify or extend it. This is why I always try to make things as simple and explicit as possible.\n\nTo achieve this, I aim to follow the SOLID principles (without obsessing over them—pragmatism always comes first).\n\nSpecifically, I’m particularly focused on clearly separating responsibilities and decoupling anything that could cause issues in the future.",
     "projects": [
       {
         "name": "inTEAmate"
