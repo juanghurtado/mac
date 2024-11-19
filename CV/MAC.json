@@ -223,7 +223,25 @@
       },
       {
         "skill": {
+          "name": "Backbone",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSF",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -241,6 +259,12 @@
       },
       {
         "skill": {
+          "name": "MarionetteJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NextJS",
           "type": "technology"
         }
@@ -253,6 +277,18 @@
       },
       {
         "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Styled Components",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Tailwind",
           "type": "technology"
         }
@@ -260,6 +296,12 @@
       {
         "skill": {
           "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vaadin",
           "type": "technology"
         }
       }
