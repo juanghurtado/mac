@@ -81,7 +81,8 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/2c94b804-9b8a-4bb3-87a7-96e94d7a88e3_linkedin-photo-43.linkedin-photo-43",
             "alt": "24/09/18/2c94b804-9b8a-4bb3-87a7-96e94d7a88e3_linkedin-photo-43.linkedin-photo-43"
-          }
+          },
+          "URL": "https://www.viafirma.com/"
         },
         "roles": [
           {
@@ -90,7 +91,33 @@
             "finishDate": "2020-03-31",
             "challenges": [
               {
-                "description": "En esta segunda etapa la empresa pasó a ser una empresa con un producto de firma digital, por lo que pasamos de trabajar en muchísimos proyectos de diversa índole a tener un _roadmap_ de producto único con sólo unas pocas aplicaciones.\n\nEn esta etapa también amplié mi mundo (gracias a que mis compañeros me apoyaron y me guiaron) y empecé a _picotear_ cosas diferentes de las que había hecho hasta ahora:\n\n- Desarrollé un par de aplicaciones internas de gestión para el producto usando Java/Vaadin\n- En mi tiempo libre publiqué un par de aplicaciones nativas para Android en la Play Store"
+                "description": "In this second stage, the company became a company with a digital signature product, so we went from working on many projects of various kinds to having a single product roadmap with only a few applications.\n\nIn this stage I also expanded my world (thanks to my colleagues supporting and guiding me) and began to _peck_ at things different from what I had done until now:\n\n- I developed a couple of internal management applications for the product using Java/Vaadin\n- In my free time I published a couple of native Android applications in the Play Store"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Backbone",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Vaadin",
+                "type": "technology"
               }
             ]
           }
