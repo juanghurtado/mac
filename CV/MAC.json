@@ -509,6 +509,10 @@
           "type": "technology"
         },
         {
+          "name": "Tailwind",
+          "type": "technology"
+        },
+        {
           "name": "TypeScript",
           "type": "technology"
         }
