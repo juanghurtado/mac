@@ -102,7 +102,8 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/d666cf72-380d-4ef7-a8e4-b55673d1a8e4_linkedin-photo-43.linkedin-photo-43",
             "alt": "24/09/18/d666cf72-380d-4ef7-a8e4-b55673d1a8e4_linkedin-photo-43.linkedin-photo-43"
-          }
+          },
+          "URL": "https://www.viafirma.com"
         },
         "roles": [
           {
@@ -111,7 +112,33 @@
             "finishDate": "2019-01-31",
             "challenges": [
               {
-                "description": "Esta primera etapa en la empresa (Viavansi, que posteriormente pasó a denominarse Viafirma), estuvo llena de proyectos de todo tipo. Al ser el único front-end del equipo, me tocaba participar en todos ellos; por ello tuve que realizar una labor importante de crear herramientas que me permitiesen simplificar el trabajo y poder delegar en los compañeros de backend lo máximo posible una vez hecho el esfuerzo inicial.\n\nAquí también aprendí mucho sobre cómo enseñar y explicar el trabajo de front, ya que ser el único front del equipo me hacía estar siempre de un proyecto a otro aclarando dudas, resolviendo bugs, etc. Por lo que en cada una de esas ocasiones siempre aprovechaba para tratar de instruir a los compañeros."
+                "description": "This initial stage at the company (Viavansi, which later became Viafirma) was filled with all kinds of projects. As the only front-end developer on the team, I was involved in all of them. This required me to focus heavily on creating tools to simplify my work and delegate as much as possible to the backend team after the initial groundwork was done.\n\nDuring this time, I also learned a lot about how to teach and explain front-end work. Being the sole front-end developer meant constantly jumping from one project to another to clarify doubts, fix bugs, and so on. In each of those situations, I always took the opportunity to guide and train my colleagues."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
               }
             ]
           }
