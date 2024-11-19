@@ -119,7 +119,12 @@
       },
       {
         "organization": {
-          "name": "Agroinformación S.L."
+          "name": "Agroinformación S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/19/808fef62-5e9c-44d8-bff5-715cc3a34f81_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla 2024-11-19 a las 17.12.28.png"
+          },
+          "URL": "https://agroinformacion.com/"
         },
         "roles": [
           {
@@ -128,7 +133,21 @@
             "finishDate": "2006-01-31",
             "challenges": [
               {
-                "description": "Mantenimiento y desarrollo de nuevas funcionalidades para una plataforma web de información agropecuaria. Esta fue una etapa de descubrimientos, aquí es donde comenzó mi andadura como front."
+                "description": "Maintenance and development of new features for a web platform focused on agricultural information. This was a stage of discoveries—where my journey as a front-end developer began."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
               }
             ]
           }
