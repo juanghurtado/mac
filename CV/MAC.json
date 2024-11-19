@@ -60,7 +60,12 @@
       },
       {
         "organization": {
-          "name": "SDOS"
+          "name": "SDOS",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/19/3677d701-799e-4955-9fe5-19e793213642_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla 2024-11-19 a las 17.23.05.png"
+          },
+          "URL": "https://alten.es"
         },
         "roles": [
           {
@@ -69,7 +74,25 @@
             "finishDate": "2021-05-31",
             "challenges": [
               {
-                "description": "Durante mi estancia en S-DOS como Front-end Lead, además de participar activamente en el desarrollo de los proyectos en los que estábamos involucrados, estuve al frente del equipo de front (6 personas) tomando las decisiones de arquitectura necesarias para impulsar el trabajo de front de los proyectos en los que trabajamos.\n\nDesarrollamos un _starter-kit_ en Angular para que todos los proyectos futuros se trabajaran de una manera estandarizada, bajo los mismos patrones, estructuras y convenciones comunes.\n\nAdemás, me responsabilicé de mentorizar y ayudar al resto del equipo, impulsando iniciativas de formación, sesiones de _pair-programming_, etc."
+                "description": "During my time at S-DOS as Front-end Lead, in addition to actively participating in the development of the projects we were involved in, I was in charge of the front-end team (6 people) making the architectural decisions necessary to drive the front-end work of the projects we worked on.\n\nWe developed a starter kit in Angular so that all future projects would be worked on in a standardized way, under the same common patterns, structures and conventions.\n\nIn addition, I was responsible for mentoring and helping the rest of the team, promoting training initiatives, pair-programming sessions, etc."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
               }
             ]
           }
