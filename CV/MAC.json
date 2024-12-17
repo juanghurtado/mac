@@ -8,8 +8,8 @@
     "profile": {
       "name": "Juan G.",
       "surnames": "Hurtado",
-      "title": "Front-end Engineer at Manfred",
-      "description": "I started as a Front-end developer in **2004**, back when **most of our job was fighting with Internet Explorer**… From that time until today, I’ve experienced firsthand:\n\n- the birth of jQuery\n- the rise of SPAs\n- the emergence of CSS preprocessors\n- CSS-in-JS\n- new frameworks popping up every day\n\nAnd here I am now, as motivated as ever. **Learning and improving every day**, because nobody knows everything in the tech world.\n\nI carry a bag full of experiences of all kinds on my back. And I’ve met so many great people along the way, from whom I’ve learned a lot — not only in technical aspects but in many others as well.\n\nIf I had to highlight something about myself, it wouldn’t be my knowledge of front-end development, as every day I become more aware of everything I don’t know. However, I would highlight **my ability to learn everything I need to in order to do my job** with quality and efficiency.",
+      "title": "Front-end developer en Manfred",
+      "description": "Web developer focused on front-end, using W3C standards such as HTML5, CSS3… Also developing SPAs with Angular and React (and old glories: Backbone.js, MarionetteJS, ExtJS…).  I also have experience developing backend code: PHP, Java, JSF, JSP, Ruby on Rails, Node.js with Express framework… The language doesn't matter, what matters is solving the problem.  I've used many CMS: Drupal, OpenCms, Wordpress… And some static sites generators: nanoc, Jekyll…  I can also write mobile apps for iPhone, iPad and Android using technologies such as PhoneGap and Appcelerator Titanium. I've also write some code for native mobile SDK's: iOS and Android. I have two apps published on Google Play Store!  My prefered workspace is OS X, with lot of terminal usage (ZSH shell) to mess around with Git (or any other VCS).   Oh, I almost forgot, I love testing my code! (Jasmine, Mocha, Sinon…)  Tags: front-end, CSS, Javascript, jQuery, microformats, typography, CSS3, HTML5, Ajax, front-end frameworks, mobile, iPhone, iPad, Android, PhoneGap, Appcelerator, Git, ZSH, Ruby, Backbone, Marionette, ExtJS, Node.js, Express, Rails, Ruby, Angular, React",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/6d168af6-03c3-4b93-a8b9-9823d2bdffa3_linkedin-photo-43.linkedin-photo-43",
         "alt": "24/09/18/6d168af6-03c3-4b93-a8b9-9823d2bdffa3_linkedin-photo-43.linkedin-photo-43"
@@ -53,7 +53,7 @@
           {
             "name": "Front-end Technical Lead",
             "startDate": "2020-03-01",
-            "finishDate": "2021-05-31",
+            "finishDate": "2021-05-01",
             "challenges": [
               {
                 "description": "Technical lead for the front-end team (focused on Angular apps). Design and development of the workflow and tools to ease the day-to-day work of the team (linters, testing, CI, git...). Reinforcement of good practices. And, of course, development of Angular apps."
@@ -70,7 +70,7 @@
           {
             "name": "Full-stack Developer",
             "startDate": "2019-01-01",
-            "finishDate": "2020-03-31"
+            "finishDate": "2020-03-01"
           }
         ]
       },
@@ -82,10 +82,10 @@
           {
             "name": "Front-end developer",
             "startDate": "2006-02-01",
-            "finishDate": "2019-01-31",
+            "finishDate": "2019-01-01",
             "challenges": [
               {
-                "description": "Front-end lead developer.\n\n- Converting from PSD/Fireworks designs to HTML/CSS code and then into the template system of choice (JSF, OpenCms, Drupal…)\n- Developing Javascript libraries and jQuery plugins for richer UI experience\n- Collaborating on development of internal framework for the team, defining UI and tools to make my team-mates happier\n- Developing cross-platform mobile apps with tools like PhoneGap or Appcelerator Titanium\n- Developing mobile apps using native SDKs"
+                "description": "Front-end lead developer.  - Converting from PSD/Fireworks designs to HTML/CSS code and then into the template system of different platforms (JSF, OpenCms, Drupal…) - Developing Javascript libraries and jQuery plugins for richer UI experience - Collaborating on development of internal framework for the team, defining UI and tools to make my team-mates happier - Developing cross-platform mobile apps with tools like PhoneGap or Appcelerator Titanium"
               }
             ]
           }
@@ -99,7 +99,7 @@
           {
             "name": "Developer",
             "startDate": "2003-06-01",
-            "finishDate": "2006-01-31",
+            "finishDate": "2006-01-01",
             "challenges": [
               {
                 "description": "Programming and maintenance of web apps (ASP.NET, HTML, CSS, Javascript) taking special care on developing according to the W3C standards."
@@ -331,26 +331,6 @@
         "skill": {
           "name": "jQuery",
           "type": "technology"
-        }
-      }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Ability to give feedback",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Continuous learning",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Team player",
-          "type": "practice"
         }
       }
     ]
