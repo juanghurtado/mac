@@ -8,8 +8,8 @@
     "profile": {
       "name": "Juan G.",
       "surnames": "Hurtado",
-      "title": "Front-end Engineer at Manfred",
-      "description": "I started as a Front-end developer in **2004**, back when **most of our job was fighting with Internet Explorer**… From that time until today, I’ve experienced firsthand:\n\n- the birth of jQuery\n- the rise of SPAs\n- the emergence of CSS preprocessors\n- CSS-in-JS\n- new frameworks popping up every day\n\nAnd here I am now, as motivated as ever. **Learning and improving every day**, because nobody knows everything in the tech world.\n\nI carry a bag full of experiences of all kinds on my back. And I’ve met so many great people along the way, from whom I’ve learned a lot — not only in technical aspects but in many others as well.\n\nIf I had to highlight something about myself, it wouldn’t be my knowledge of front-end development, as every day I become more aware of everything I don’t know. However, I would highlight **my ability to learn everything I need to in order to do my job** with quality and efficiency.",
+      "title": "Full-stack developer",
+      "description": "Web developer focused on front-end, using W3C standards such as XHTML, HTML5, CSS3… Also developing with plain old Javascript, jQuery, Backbone.js, MarionetteJS, ExtJS…\n\nI also have experience developing backend code: PHP, Java, JSF, JSP, Ruby on Rails, Node.js with Express framework… The language doesn't matter, what matters is solving the problem.\n\nI've used many CMS: Drupal, OpenCms, Wordpress… And some static sites generators: nanoc, Jekyll…\n\nI can also write mobile apps for iPhone, iPad and Android using technologies such as PhoneGap and Appcelerator Titanium. I've also write some code for native mobile SDK's: iOS and Android.\n\nMy prefered workspace is OS X, with lot of terminal usage (ZSH shell) to mess around with Git (or any other VCS).\n\nOh, I almost forgot, I love testing my code! (I use Jasmine to test my JS apps)\n\nTags: front-end, XHTML, CSS, Javascript, jQuery, microformats, typography, CSS3, HTML5, Ajax, front-end frameworks, mobile, iPhone, iPad, Android, PhoneGap, Appcelerator, jQuery Mobile, Git, ZSH, Ruby, Backbone, Marionette, ExtJS, Node.js, Express, Rails, Ruby",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/6d168af6-03c3-4b93-a8b9-9823d2bdffa3_linkedin-photo-43.linkedin-photo-43",
         "alt": "24/09/18/6d168af6-03c3-4b93-a8b9-9823d2bdffa3_linkedin-photo-43.linkedin-photo-43"
@@ -36,63 +36,18 @@
     "jobs": [
       {
         "organization": {
-          "name": "Manfred",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/6231d15f-38f1-4648-896f-137af6e5c64b_linkedin-photo-43.linkedin-photo-43",
-            "alt": "24/09/18/6231d15f-38f1-4648-896f-137af6e5c64b_linkedin-photo-43.linkedin-photo-43"
-          },
-          "URL": "https://getmanfred.com"
+          "name": "Manfred"
         },
         "roles": [
           {
-            "name": "Front-end Engineer",
-            "startDate": "2021-05-01",
-            "challenges": [
-              {
-                "description": "I consider this to be the high point of my career: this is where I have been able to most faithfully transfer all the knowledge I have acquired throughout my career.\n\nDespite being a small team (or precisely because of that), it is where I have been able to work together with my colleagues to create an environment of continuous improvement, of sharing knowledge, of delivery… All the \"pieces\" that I have been gathering over all these years are now in their place."
-              }
-            ],
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Jest",
-                "type": "technology"
-              },
-              {
-                "name": "NextJS",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Styled Components",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Yarn",
-                "type": "technology"
-              }
-            ]
+            "name": "Front-end developer",
+            "startDate": "2021-05-01"
           }
         ]
       },
       {
         "organization": {
-          "name": "SDOS",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/19/3677d701-799e-4955-9fe5-19e793213642_captura-de-pantalla-.png",
-            "alt": "Captura de pantalla 2024-11-19 a las 17.23.05.png"
-          },
-          "URL": "https://alten.es"
+          "name": "SDOS"
         },
         "roles": [
           {
@@ -101,25 +56,7 @@
             "finishDate": "2021-05-31",
             "challenges": [
               {
-                "description": "During my time at S-DOS as Front-end Lead, in addition to actively participating in the development of the projects we were involved in, I was in charge of the front-end team (6 people) making the architectural decisions necessary to drive the front-end work of the projects we worked on.\n\nWe developed a starter kit in Angular so that all future projects would be worked on in a standardized way, under the same common patterns, structures and conventions.\n\nIn addition, I was responsible for mentoring and helping the rest of the team, promoting training initiatives, pair-programming sessions, etc."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Sass",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
+                "description": "Technical lead for the front-end team (focused on Angular apps). Design and development of the workflow and tools to ease the day-to-day work of the team (linters, testing, CI, git...). Reinforcement of good practices. And, of course, development of Angular apps."
               }
             ]
           }
@@ -127,95 +64,28 @@
       },
       {
         "organization": {
-          "name": "Viafirma",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/2c94b804-9b8a-4bb3-87a7-96e94d7a88e3_linkedin-photo-43.linkedin-photo-43",
-            "alt": "24/09/18/2c94b804-9b8a-4bb3-87a7-96e94d7a88e3_linkedin-photo-43.linkedin-photo-43"
-          },
-          "URL": "https://www.viafirma.com/"
+          "name": "Viafirma"
         },
         "roles": [
           {
             "name": "Full-stack Developer",
             "startDate": "2019-01-01",
-            "finishDate": "2020-03-31",
-            "challenges": [
-              {
-                "description": "In this second stage, the company became a company with a digital signature product, so we went from working on many projects of various kinds to having a single product roadmap with only a few applications.\n\nIn this stage I also expanded my world (thanks to my colleagues supporting and guiding me) and began to _peck_ at things different from what I had done until now:\n\n- I developed a couple of internal management applications for the product using Java/Vaadin\n- In my free time I published a couple of native Android applications in the Play Store"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Backbone",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "JSF",
-                "type": "technology"
-              },
-              {
-                "name": "Java",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Vaadin",
-                "type": "technology"
-              }
-            ]
+            "finishDate": "2020-03-31"
           }
         ]
       },
       {
         "organization": {
-          "name": "Viavansi",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/d666cf72-380d-4ef7-a8e4-b55673d1a8e4_linkedin-photo-43.linkedin-photo-43",
-            "alt": "24/09/18/d666cf72-380d-4ef7-a8e4-b55673d1a8e4_linkedin-photo-43.linkedin-photo-43"
-          },
-          "URL": "https://www.viafirma.com"
+          "name": "Viavansi"
         },
         "roles": [
           {
-            "name": "Front-end Developer",
+            "name": "Front-end developer",
             "startDate": "2006-02-01",
             "finishDate": "2019-01-31",
             "challenges": [
               {
-                "description": "This initial stage at the company (Viavansi, which later became Viafirma) was filled with all kinds of projects. As the only front-end developer on the team, I was involved in all of them. This required me to focus heavily on creating tools to simplify my work and delegate as much as possible to the backend team after the initial groundwork was done.\n\nDuring this time, I also learned a lot about how to teach and explain front-end work. Being the sole front-end developer meant constantly jumping from one project to another to clarify doubts, fix bugs, and so on. In each of those situations, I always took the opportunity to guide and train my colleagues."
-              }
-            ],
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JSF",
-                "type": "technology"
-              },
-              {
-                "name": "Java",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "WordPress",
-                "type": "technology"
+                "description": "Front-end lead developer.\n\n- Converting from PSD/Fireworks designs to HTML/CSS code and then into the template system of choice (JSF, OpenCms, Drupal…)\n- Developing Javascript libraries and jQuery plugins for richer UI experience\n- Collaborating on development of internal framework for the team, defining UI and tools to make my team-mates happier\n- Developing cross-platform mobile apps with tools like PhoneGap or Appcelerator Titanium\n- Developing mobile apps using native SDKs"
               }
             ]
           }
@@ -223,12 +93,7 @@
       },
       {
         "organization": {
-          "name": "Agroinformación S.L.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/19/808fef62-5e9c-44d8-bff5-715cc3a34f81_captura-de-pantalla-.png",
-            "alt": "Captura de pantalla 2024-11-19 a las 17.12.28.png"
-          },
-          "URL": "https://agroinformacion.com/"
+          "name": "Agroinformación S.L."
         },
         "roles": [
           {
@@ -237,21 +102,7 @@
             "finishDate": "2006-01-31",
             "challenges": [
               {
-                "description": "Maintenance and development of new features for a web platform focused on agricultural information. This was a stage of discoveries—where my journey as a front-end developer began."
-              }
-            ],
-            "competences": [
-              {
-                "name": "ASP.net",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
+                "description": "Programming and maintenance of web apps (ASP.NET, HTML, CSS, Javascript) taking special care on developing according to the W3C standards."
               }
             ]
           }
@@ -340,6 +191,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Angular2+",
           "type": "technology"
         }
@@ -353,6 +210,18 @@
       {
         "skill": {
           "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
           "type": "technology"
         }
       },
@@ -394,13 +263,43 @@
       },
       {
         "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PhoneGap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "React",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
           "type": "technology"
         }
       },
@@ -427,37 +326,11 @@
           "name": "Vaadin",
           "type": "technology"
         }
-      }
-    ],
-    "studies": [
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Ciclo formativo grado superior - Desarrollo de aplicaciones informáticas",
-        "startDate": "2002-09-01",
-        "institution": {
-          "name": "I.E.S Mediterráneo (La Línea de la Concepción - Cádiz)"
-        },
-        "finishDate": "2004-06-01"
-      }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Ability to give feedback",
-          "type": "practice"
-        }
       },
       {
         "skill": {
-          "name": "Continuous learning",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Team player",
-          "type": "practice"
+          "name": "jQuery",
+          "type": "technology"
         }
       }
     ]
