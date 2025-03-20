@@ -396,6 +396,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "Jest",
+        "type": "technology"
+      },
+      {
         "name": "NextJS",
         "type": "technology"
       },
