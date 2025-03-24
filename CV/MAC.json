@@ -9,7 +9,7 @@
       "name": "Juan G.",
       "surnames": "Hurtado",
       "title": "Front-end developer en Manfred",
-      "description": "Web developer focused on front-end, using W3C standards such as HTML5, CSS3… Also developing SPAs with Angular and React (and old glories: Backbone.js, MarionetteJS, ExtJS…).  I also have experience developing backend code: PHP, Java, JSF, JSP, Ruby on Rails, Node.js with Express framework… The language doesn't matter, what matters is solving the problem.  I've used many CMS: Drupal, OpenCms, Wordpress… And some static sites generators: nanoc, Jekyll…  I can also write mobile apps for iPhone, iPad and Android using technologies such as PhoneGap and Appcelerator Titanium. I've also write some code for native mobile SDK's: iOS and Android. I have two apps published on Google Play Store!  My prefered workspace is OS X, with lot of terminal usage (ZSH shell) to mess around with Git (or any other VCS).   Oh, I almost forgot, I love testing my code! (Jasmine, Mocha, Sinon…)  Tags: front-end, CSS, Javascript, jQuery, microformats, typography, CSS3, HTML5, Ajax, front-end frameworks, mobile, iPhone, iPad, Android, PhoneGap, Appcelerator, Git, ZSH, Ruby, Backbone, Marionette, ExtJS, Node.js, Express, Rails, Ruby, Angular, React",
+      "description": "I started as a Front-end developer in **2004**, back when **most of our job was fighting with Internet Explorer**… From that time until today, I’ve experienced firsthand:  - the birth of jQuery - the rise of SPAs - the emergence of CSS preprocessors - CSS-in-JS - new frameworks popping up every day  And here I am now, as motivated as ever. **Learning and improving every day**, because nobody knows everything in the tech world.  I carry a bag full of experiences of all kinds on my back. And I’ve met so many great people along the way, from whom I’ve learned a lot — not only in technical aspects but in many others as well.  If I had to highlight something about myself, it wouldn’t be my knowledge of front-end development, as every day I become more aware of everything I don’t know. However, I would highlight **my ability to learn everything I need to in order to do my job** with quality and efficiency.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/6d168af6-03c3-4b93-a8b9-9823d2bdffa3_linkedin-photo-43.linkedin-photo-43",
         "alt": "24/09/18/6d168af6-03c3-4b93-a8b9-9823d2bdffa3_linkedin-photo-43.linkedin-photo-43"
@@ -41,7 +41,12 @@
         "roles": [
           {
             "name": "Front-end developer",
-            "startDate": "2021-05-01"
+            "startDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "I consider this to be the high point of my career: this is where I have been able to most faithfully transfer all the knowledge I have acquired throughout my career.  Despite being a small team (or maybe because of that), it is where I have been able to work together with my colleagues to create an environment of continuous improvement, of sharing knowledge, of delivery… All the \"pieces\" that I have been gathering over all these years are now in their place."
+              }
+            ]
           }
         ]
       },
@@ -51,12 +56,12 @@
         },
         "roles": [
           {
-            "name": "Front-end Technical Lead",
+            "name": "Front-end Lead",
             "startDate": "2020-03-01",
             "finishDate": "2021-05-01",
             "challenges": [
               {
-                "description": "Technical lead for the front-end team (focused on Angular apps). Design and development of the workflow and tools to ease the day-to-day work of the team (linters, testing, CI, git...). Reinforcement of good practices. And, of course, development of Angular apps."
+                "description": "During my time at S-DOS as Front-end Lead, in addition to actively participating in the development of the projects we were involved in, I was in charge of the front-end team (6 people) making the architectural decisions necessary to drive the front-end work of the projects we worked on.  We developed a starter kit in Angular so that all future projects would be worked on in a standardized way, under the same common patterns, structures and conventions.  In addition, I was responsible for mentoring and helping the rest of the team, promoting training initiatives, pair-programming sessions, etc."
               }
             ]
           }
@@ -70,7 +75,12 @@
           {
             "name": "Full-stack Developer",
             "startDate": "2019-01-01",
-            "finishDate": "2020-03-01"
+            "finishDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": "In this second stage, the company became a company with a digital signature product, so we went from working on many projects of various kinds to having a single product roadmap with only a few applications.  In this stage I also expanded my world (thanks to my colleagues supporting and guiding me) and began to _peck_ at things different from what I had done until now:  - I developed a couple of internal management applications for the product using Java/Vaadin - In my spare time I published a couple of native Android applications in the Play Store"
+              }
+            ]
           }
         ]
       },
@@ -85,7 +95,7 @@
             "finishDate": "2019-01-01",
             "challenges": [
               {
-                "description": "Front-end lead developer.  - Converting from PSD/Fireworks designs to HTML/CSS code and then into the template system of different platforms (JSF, OpenCms, Drupal…) - Developing Javascript libraries and jQuery plugins for richer UI experience - Collaborating on development of internal framework for the team, defining UI and tools to make my team-mates happier - Developing cross-platform mobile apps with tools like PhoneGap or Appcelerator Titanium"
+                "description": "Front-end lead developer.  - Converting from PSD/Fireworks designs to HTML/CSS code and then into the template system of choice (JSF, OpenCms, Drupal…) - Developing Javascript libraries and jQuery plugins for richer UI experience - Collaborating on development of internal framework for the team, defining UI and tools to make my team-mates happier - Developing cross-platform mobile apps with tools like PhoneGap or Appcelerator Titanium - Developing mobile apps using native SDKs"
               }
             ]
           }
@@ -102,7 +112,7 @@
             "finishDate": "2006-01-01",
             "challenges": [
               {
-                "description": "Programming and maintenance of web apps (ASP.NET, HTML, CSS, Javascript) taking special care on developing according to the W3C standards."
+                "description": "Maintenance and development of new features for a web platform focused on agricultural information. This was a stage of discoveries—where my journey as a front-end developer began."
               }
             ]
           }
@@ -189,6 +199,12 @@
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "ASP.net",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "Android",
@@ -305,6 +321,12 @@
       },
       {
         "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Styled Components",
           "type": "technology"
         }
@@ -324,6 +346,18 @@
       {
         "skill": {
           "name": "Vaadin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Yarn",
           "type": "technology"
         }
       },
