@@ -415,6 +415,9 @@
           "name": "TypeScript",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Accounts & Payroll"
       ]
     },
     "status": "openToOffers",
