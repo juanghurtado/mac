@@ -36,6 +36,18 @@
     "jobs": [
       {
         "organization": {
+          "name": "Deep Kernel Labs",
+          "URL": "https://www.dkl.digital/"
+        },
+        "roles": [
+          {
+            "name": "Front-end Developer",
+            "startDate": "2025-03-01"
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Manfred"
         },
         "roles": [
