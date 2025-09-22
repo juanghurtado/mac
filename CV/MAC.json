@@ -374,6 +374,12 @@
           "name": "Aprendizaje Continuo",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de dar feedback",
+          "type": "practice"
+        }
       }
     ]
   },
