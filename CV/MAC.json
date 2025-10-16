@@ -136,7 +136,7 @@
       {
         "details": {
           "name": "Migraine monitor",
-          "description": "I’m currently developing an application to monitor migraine episodes. The idea is to collect data (intensity, symptoms, medication, etc.) about the episodes to later analyze it and generate charts.\n\nThe goal is also to use AI to identify patterns and determine potential triggers for the episodes.",
+          "description": "Actualmente estoy desarrollando una aplicación para monitorear episodios de migraña. La idea es recopilar datos (intensidad, síntomas, medicación, etc.) sobre los episodios para luego analizarlos y generar gráficos.\n\nEl objetivo también es utilizar IA para identificar patrones y determinar posibles desencadenantes de los episodios.",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/19/49dcb7c3-84e5-408e-99e3-8b7d62575daf_captura-de-pantalla-.png",
             "alt": "Captura de pantalla 2024-11-19 a las 17.08.37.png"
