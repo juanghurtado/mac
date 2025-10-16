@@ -167,7 +167,7 @@
       {
         "details": {
           "name": "inTEAmate",
-          "description": "Development of a native Android application (written in Java): a timer to brew the perfect cup of tea based on the variety you want to enjoy.\n\nUnfortunately, I stopped maintaining it, and Google Play Store eventually deprecated and removed it a few months ago.",
+          "description": "Desarrollo de una aplicación nativa para Android (escrita en Java): un temporizador para preparar la taza de té perfecta según la variedad que desees disfrutar.\n\nDesafortunadamente, dejé de mantenerla, y la Google Play Store finalmente la deprecó y la eliminó hace unos meses.\n\n",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/21/6d5dcdb1-b641-47db-94fa-2bca9a10d1e7_unnamed.png",
             "alt": "unnamed.png"
