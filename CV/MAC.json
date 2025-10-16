@@ -57,7 +57,25 @@
             "finishDate": "2025-03-01",
             "challenges": [
               {
-                "description": "I consider this to be the high point of my career: this is where I have been able to most faithfully transfer all the knowledge I have acquired throughout my career.  Despite being a small team (or maybe because of that), it is where I have been able to work together with my colleagues to create an environment of continuous improvement, of sharing knowledge, of delivery… All the \"pieces\" that I have been gathering over all these years are now in their place."
+                "description": "Desarrollo desde cero de todas la plataforma de gestión del _recruiting_ que Manfred necesitaba:\n\n- gestión y publicación de ofertas\n- herramienta pública para gestionar perfiles profesionales\n- gestión de las aplicaciones a ofertas\n- búsqueda de candidatos\n\nDurante gran parte de mi tiempo allí fui el único front-end del equipo. Posteriormente se unió otro compañero con el que compartí muy buenos momentos y del que aprendí muchísimo.\n\nEl mayor logro del equipo, en mi opinión, fue la forma de trabajar que conseguimos alcanzar. Logramos tener un equipo cohesionado, productivo y muy enfocado."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Styled Components",
+                "type": "technology"
               }
             ]
           }
