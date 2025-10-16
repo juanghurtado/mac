@@ -135,7 +135,7 @@
     "projects": [
       {
         "details": {
-          "name": "Migraine monitor",
+          "name": "Tracker de migrañas",
           "description": "Actualmente estoy desarrollando una aplicación para monitorear episodios de migraña. La idea es recopilar datos (intensidad, síntomas, medicación, etc.) sobre los episodios para luego analizarlos y generar gráficos.\n\nEl objetivo también es utilizar IA para identificar patrones y determinar posibles desencadenantes de los episodios.",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/19/49dcb7c3-84e5-408e-99e3-8b7d62575daf_captura-de-pantalla-.png",
@@ -505,7 +505,7 @@
     "goodPractices": "En mi opinión, el mejor patrón de diseño es el sentido común. Y la experiencia me ha mostrado que la mayoría de las veces es totalmente cierto.\n\nMe esfuerzo por ser pragmático al escribir código, siempre con la mentalidad de que alguien (posiblemente yo mismo) necesitará revisarlo más adelante para modificarlo o ampliarlo. Por eso siempre intento que las cosas sean lo más simples y explícitas posible.\n\nPara lograr esto, mi objetivo es seguir los principios SOLID (sin obsesionarme con ellos—el pragmatismo siempre va primero).\n\nEspecíficamente, me enfoco especialmente en separar claramente las responsabilidades. Y, por supuesto, intento ser pragmático, procurando no caer nunca en la sobre-ingeniería.",
     "projects": [
       {
-        "name": "Migraine monitor"
+        "name": "Tracker de migrañas"
       },
       {
         "name": "inTEAmate"
