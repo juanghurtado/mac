@@ -125,7 +125,21 @@
             "finishDate": "2006-01-01",
             "challenges": [
               {
-                "description": "Maintenance and development of new features for a web platform focused on agricultural information. This was a stage of discoveries—where my journey as a front-end developer began."
+                "description": "Mantenimiento y desarrollo de nuevas funcionalidades para un portal web de información agropecuaria. Al poco tiempo, la empresa creció para convertirse en una pequeña consultora."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
               }
             ]
           }
