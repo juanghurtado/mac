@@ -91,7 +91,33 @@
             "finishDate": "2020-03-01",
             "challenges": [
               {
-                "description": "In this second stage, the company became a company with a digital signature product, so we went from working on many projects of various kinds to having a single product roadmap with only a few applications.  In this stage I also expanded my world (thanks to my colleagues supporting and guiding me) and began to _peck_ at things different from what I had done until now:  - I developed a couple of internal management applications for the product using Java/Vaadin - In my spare time I published a couple of native Android applications in the Play Store"
+                "description": "La empresa anterior hizo un cambio en su enfoque, y empezamos a ser una empresa de producto. Desarrollamos un motor de firma digital, a partir del cual generamos diversos productos relacionados (portafirmas, custodia de documentos, flujos de firma…)\n\nDe nuevo, al ser el único integrante front-end del equipo, tuve que ideármelas para hacerlo funcionar. Una vez sentadas las bases de los productos, podía centrarme en desarrollar módulos específicos de los productos (UI para definir flujos de firma, o para diseñar formularios dinámicos que recogerían los datos que posteriormente firmarían los usuarios).\n\nTambién tuve la oportunidad de hacer desarrollos integrales, encargándome también de la parte backend. Por ejemplo, desarrollé la plataforma de gestión para las licencias de los productos de la compañía."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "CoffeeScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Vaadin",
+                "type": "technology"
               }
             ]
           }
