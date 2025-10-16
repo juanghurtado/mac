@@ -108,7 +108,25 @@
             "finishDate": "2019-01-01",
             "challenges": [
               {
-                "description": "Front-end lead developer.  - Converting from PSD/Fireworks designs to HTML/CSS code and then into the template system of choice (JSF, OpenCms, Drupal…) - Developing Javascript libraries and jQuery plugins for richer UI experience - Collaborating on development of internal framework for the team, defining UI and tools to make my team-mates happier - Developing cross-platform mobile apps with tools like PhoneGap or Appcelerator Titanium - Developing mobile apps using native SDKs"
+                "description": "Empresa de consultoría pequeña (20-30 personas). Proyectos para la Administración Pública (herramientas de tramitación, portales web…).\n\nSiendo el único front-end del equipo, mi principal logro fue conseguir desarrollar un mecanismo para lograr que los compañeros fueran auto-suficientes en lo relativo a la UI. Desarrollé un pequeño framework gracias al cual el grueso de mi participación en los proyectos se acotaba al comienzo de los mismos (para maquetar el layout global y sentar las bases generales), dejando el resto del desarrollo en manos de los compañeros"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
               }
             ]
           }
