@@ -42,7 +42,30 @@
         "roles": [
           {
             "name": "Front-end Developer",
-            "startDate": "2025-03-01"
+            "startDate": "2025-03-01",
+            "challenges": [
+              {
+                "description": "**Empresa consultora**. Actualmente trabajo en dos proyectos del sector energético. El primero de ellos es una herramienta de monitorización de consumo. El segundo es una herramienta para llevar el seguimiento del proceso de instalación de las instalaciones de energía."
+              }
+            ],
+            "competences": [
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "Vite",
+                "type": "technology"
+              },
+              {
+                "name": "Vitest",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
