@@ -45,7 +45,7 @@
             "startDate": "2025-03-01",
             "challenges": [
               {
-                "description": "**Empresa consultora**. Actualmente trabajo en proyectos para un proveedor energético en Arabia Saudí. De los tres en los que he participado, el más reciente es una aplicación para gestionar periodos de alta demanda de consumo: desde la aplicación se puede solicitar a los participantes en el programa (grandes consumidores: industrias, etc.) que rebajen su consumo durante un tramo concreto de tiempo. El sistema monitoriza y verifica esa bajada pactada, y se calcula una compensación económica para dicho participante."
+                "description": "**Empresa consultora**. Actualmente trabajo en proyectos para un proveedor energético en Arabia Saudí.\n\nDe los tres en los que he participado, el más reciente es una aplicación para gestionar periodos de alta demanda de consumo: desde la aplicación se puede solicitar a los participantes en el programa (grandes consumidores: industrias, etc.) que rebajen su consumo durante un tramo concreto de tiempo. El sistema monitoriza y verifica esa bajada pactada, y se calcula una compensación económica para dicho participante.\n\nEl desarrollo de este último ha sido completamente usando agentes de código: Claude Code en concreto. Mi participación en el mismo ha sido completamente full-stack: las features se implementan end-to-end, con el frontend en NextJS y el backend con NestJS.\n\nEn los otros dos proyectos, el stack era Vite con TanStack para el frontend y el backend con Django."
               }
             ],
             "competences": [
