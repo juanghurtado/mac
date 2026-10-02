@@ -21,6 +21,12 @@
         "municipality": "Sevilla"
       }
     },
+    "interestingFacts": [
+      {
+        "topic": "Lector empedernido",
+        "fact": "Me apasionan los libros de fantasía y ciencia ficción. En este momento he terminado mi libro número 27 de este año 2026 (\"El Prisma Negro\", de Brent Weeks). Mi autor favorito (a día de hoy, siempre puede cambiar), es Joe Abercrombie."
+      }
+    ],
     "relevantLinks": [
       {
         "type": "linkedin",
