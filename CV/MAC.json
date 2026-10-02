@@ -600,10 +600,13 @@
         {
           "name": "TypeScript",
           "type": "technology"
+        },
+        {
+          "name": "Vite",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
-        "Backend Developer",
         "Frontend Developer",
         "Full-stack Developer"
       ]
