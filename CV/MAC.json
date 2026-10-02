@@ -50,6 +50,18 @@
             ],
             "competences": [
               {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
                 "name": "React",
                 "type": "technology"
               },
@@ -63,6 +75,10 @@
               },
               {
                 "name": "Vitest",
+                "type": "technology"
+              },
+              {
+                "name": "nestJS",
                 "type": "technology"
               }
             ]
