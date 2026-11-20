@@ -47,6 +47,10 @@
       {
         "organization": {
           "name": "Deep Kernel Labs",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/11/20/6c445989-7bae-4347-9d3e-ae3514e0b459_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla 2026-11-20 a las 12.50.56.png"
+          },
           "URL": "https://www.dkl.digital/"
         },
         "roles": [
