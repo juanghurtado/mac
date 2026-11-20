@@ -418,6 +418,12 @@
       },
       {
         "skill": {
+          "name": "Claude Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
           "type": "technology"
         }
@@ -664,11 +670,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Jest",
+        "name": "Claude Code",
         "type": "technology"
       },
       {
-        "name": "NextJS",
+        "name": "Jest",
         "type": "technology"
       },
       {
