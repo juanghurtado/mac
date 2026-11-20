@@ -101,7 +101,11 @@
       },
       {
         "organization": {
-          "name": "Manfred"
+          "name": "Manfred",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/11/20/b789c7e8-35c4-4474-ba0f-bfcb3abc1c07_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla 2026-11-20 a las 12.51.20.png"
+          }
         },
         "roles": [
           {
